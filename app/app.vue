@@ -18,8 +18,8 @@ const items = computed<NavigationMenuItem[]>(() => [
     <UHeader class="bg-[#faf9f7]/95 backdrop-blur-md border-b border-[#e8e6e1]">
       <template #title>
         <NuxtLink to="/" class="flex items-center gap-2">
-          <span class="font-serif text-2xl font-semibold tracking-tight text-[#1a1a1a]">Lumière</span>
-          <span class="text-xs tracking-[0.3em] uppercase text-[#8a8a8a] font-light">Silver</span>
+          <span class="font-serif text-2xl font-semibold tracking-tight text-[#1a1a1a]">Joyeria</span>
+          <span class="text-xs tracking-[0.3em] uppercase text-[#8a8a8a] font-light">Taxco</span>
         </NuxtLink>
       </template>
 
@@ -64,8 +64,8 @@ const items = computed<NavigationMenuItem[]>(() => [
         <div class="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div class="md:col-span-1">
             <div class="flex items-center gap-2 mb-6">
-              <span class="font-serif text-2xl font-semibold tracking-tight">Lumière</span>
-              <span class="text-xs tracking-[0.3em] uppercase text-[#8a8a8a] font-light">Silver</span>
+              <span class="font-serif text-2xl font-semibold tracking-tight">joyería</span>
+              <span class="text-xs tracking-[0.3em] uppercase text-[#8a8a8a] font-light">Taxco</span>
             </div>
             <p class="text-[#a0a0a0] text-sm leading-relaxed">
               Creando piezas únicas de joyería de plata artesanal desde 2010. Cada diseño cuenta una historia.
@@ -95,7 +95,7 @@ const items = computed<NavigationMenuItem[]>(() => [
           <div>
             <h4 class="font-medium mb-4 text-sm tracking-wide uppercase">Contacto</h4>
             <ul class="space-y-3 text-[#a0a0a0] text-sm">
-              <li>hola@lumiere-silver.com</li>
+              <li>hola@Joyeria-taxco.com</li>
               <li>+52 55 1234 5678</li>
               <li>Ciudad de México, MX</li>
             </ul>
@@ -124,7 +124,7 @@ const items = computed<NavigationMenuItem[]>(() => [
         
         <div class="border-t border-[#333] mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p class="text-[#666] text-sm">
-            © {{ new Date().getFullYear() }} Lumière Silver. Todos los derechos reservados.
+            © {{ new Date().getFullYear() }} Joyeria Taxco. Todos los derechos reservados.
           </p>
           <div class="flex gap-6 text-[#666] text-sm">
             <NuxtLink to="#" class="hover:text-white transition-colors">Privacidad</NuxtLink>

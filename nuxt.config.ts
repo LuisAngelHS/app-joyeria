@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   app: {
     head: {
-      title: 'Lumière Silver - Joyería de Plata Artesanal',
+      title: 'Joyeria Taxco - Joyería de Plata Artesanal',
       meta: [
         { name: 'description', content: 'Descubre nuestra colección exclusiva de joyería de plata artesanal. Piezas únicas con diseño contemporáneo y acabados excepcionales.' }
       ],

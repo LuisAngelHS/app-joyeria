@@ -55,7 +55,7 @@ const testimonials = [
   {
     name: 'María González',
     role: 'Diseñadora de Interiores',
-    content: 'La calidad de las piezas de Lumière es incomparable. Cada detalle refleja el cuidado artesanal que ponen en su trabajo.',
+    content: 'La calidad de las piezas de Joyeria es incomparable. Cada detalle refleja el cuidado artesanal que ponen en su trabajo.',
     avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop'
   },
   {
@@ -67,7 +67,7 @@ const testimonials = [
   {
     name: 'Carolina Ruiz',
     role: 'Empresaria',
-    content: 'Las joyas de Lumière se han convertido en mis favoritas. Son piezas atemporales que complementan cualquier estilo.',
+    content: 'Las joyas de Joyeria taxco se han convertido en mis favoritas. Son piezas atemporales que complementan cualquier estilo.',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop'
   }
 ]
@@ -264,7 +264,7 @@ const testimonials = [
             </h2>
             <div class="space-y-6 text-[#666] leading-relaxed">
               <p>
-                Desde 2010, Lumière Silver ha sido sinónimo de excelencia en joyería artesanal. 
+                Desde 2010, Joyeria taxco ha sido sinónimo de excelencia en joyería artesanal. 
                 Cada pieza que creamos es el resultado de la pasión, la dedicación y el dominio 
                 de técnicas tradicionales de orfebrería.
               </p>
@@ -403,7 +403,7 @@ const testimonials = [
                 </div>
                 <div>
                   <h4 class="text-[#1a1a1a] font-medium">Escríbenos</h4>
-                  <p class="text-[#666] text-sm">hola@lumiere-silver.com</p>
+                  <p class="text-[#666] text-sm">hola@Joyeria-taxco.com</p>
                 </div>
               </div>
               
