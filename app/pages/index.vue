@@ -79,7 +79,7 @@ const testimonials = [
     <section class="relative min-h-[90vh] flex items-center">
       <div class="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=1920&h=1080&fit=crop" 
+          src="../assets/img/1.jpeg" 
           alt="Joyería de plata"
           class="w-full h-full object-cover"
         />
